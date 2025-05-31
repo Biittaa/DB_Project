@@ -31,13 +31,4 @@ This project is a simple banking system designed to simulate core banking functi
    - `access.session.sql`
    - `functions.session.sql`
    - `DB_INSERT_PHASE2.session.sql`
-3. Use the Python scripts to interact with the database.
 
-## Notes
-
-- Make sure to configure your database credentials in the Python files.
-- This project is for educational purposes and not intended for production use.
-
-## Author
-
-Developed as part of a university-level database systems project.
